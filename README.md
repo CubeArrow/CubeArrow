@@ -2,7 +2,7 @@
 
 I am CubeArrow, a student with a passion for software development while focusing on the back-end. 
 
-I am currently creating a simple interpreted programming language with kotlin, which you can find in my pinned repositories.
+I'm currently creating a simple interpreted programming language with kotlin, which you can find in my pinned repositories.
 
 You can reach me using the shown email address at any times
 
